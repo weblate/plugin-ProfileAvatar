@@ -1,5 +1,10 @@
 {
     "ProfileAvatar": {
-        "AvatarTypeTitle": "头像类型"
+        "AvatarTypeDescription": "选择生成头像的模式。",
+        "AvatarTypeTitle": "头像类型",
+        "DataURLsDescription": "启用此项后，图片会随主请求一起发送，因此加载速度会快很多，但图片较大时可能会使 API 请求变得臃肿。",
+        "DataURLsTitle": "使用 data URL",
+        "ShowInVisitorLogDescription": "启用此项后，头像也会显示在访问日志中。",
+        "ShowInVisitorLogTitle": "在访问日志中显示"
     }
 }
