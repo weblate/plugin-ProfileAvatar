@@ -1,1 +1,10 @@
-{}
+{
+    "ProfileAvatar": {
+        "AvatarTypeDescription": "Alegeți modul de generare a avatarelor.",
+        "AvatarTypeTitle": "Tip avatar",
+        "DataURLsDescription": "Dacă activați această opțiune, imaginile sunt trimise în cererea principală, ceea ce le face să se încarce mult mai repede, dar, mai ales în cazul imaginilor mari, poate îngreuna cererile API.",
+        "DataURLsTitle": "Folosire URL-uri de date",
+        "ShowInVisitorLogDescription": "Dacă activați această opțiune, avatarul este afișat și în Jurnalul vizitelor.",
+        "ShowInVisitorLogTitle": "Afișare în Jurnalul vizitelor"
+    }
+}
